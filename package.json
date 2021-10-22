@@ -1,0 +1,11 @@
+{
+  "name": "zxl-custom-cli",
+  "version": "1.0.0",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "inquirer": "^8.2.0"
+  },
+  "bin": {
+    "zxl": "./bin/index.js"
+  }
+}
